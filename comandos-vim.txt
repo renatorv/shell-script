@@ -1,0 +1,3 @@
+i => entra no modo de inserção
+ESC => sai do modo de inserção
+:wq => salva e sai do arquivo

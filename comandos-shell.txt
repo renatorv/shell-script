@@ -1,0 +1,8 @@
+# VARIÁVEIS DE AMBIENTE:
+
+    1. PARA VISUALIZAR: set (mostra variáveis locais quanto as globais), 
+                        env (mostra somente as globais que foram exportadas), 
+                        printenv = env
+
+
+https://www.youtube.com/watch?v=RqEJ5kdpT0A
